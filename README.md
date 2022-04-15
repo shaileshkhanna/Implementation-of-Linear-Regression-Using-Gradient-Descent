@@ -57,17 +57,16 @@ plt.title("Study hours vs. Scores")
 plt.plot(loss)
 plt.xlabel("Iterations")
 plt.ylabel("loss")
-*/
 ```
 
 ## Output:
-### Server side Output
-![GitHub Logo](./images/float.png)
 
-### client side Output
+![GitHub Logo](.float.png)
+
+
 ![GitHub Logo](./images/scores.png)
 
 
 
-## Result:
+## Result
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
