@@ -61,7 +61,12 @@ plt.ylabel("loss")
 ```
 
 ## Output:
-![linear regression using gradient descent](float.png)
+### Server side Output
+![GitHub Logo](./images/float.png)
+
+### client side Output
+![GitHub Logo](./images/scores.png)
+
 
 
 ## Result:
